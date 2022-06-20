@@ -1,3 +1,4 @@
+## Mandatory Task
 ### 1.I’ve signed up to AWS
 ![alt text](https://github.com/uvaysjon-coder/CloudTask/blob/main/images/Picture1.png)
 
@@ -38,3 +39,21 @@
 
 ### 8.And I’ve checked through my browser http://18.234.143.186
 ![alt text](https://github.com/uvaysjon-coder/CloudTask/blob/main/images/Picture10.png)
+
+## Extra Task
+
+### 1.Firstly I’ve created VPC by giving name my_network_vpc
+![alt text](https://github.com/uvaysjon-coder/CloudTask/blob/main/images/Picture11.png)
+
+### 2.After that I’ve created Internet Gateway and attached to my_network_vpc
+![alt text](https://github.com/uvaysjon-coder/CloudTask/blob/main/images/Picture12.png)
+![alt text](https://github.com/uvaysjon-coder/CloudTask/blob/main/images/Picture13.png)
+
+### 3.I’ve created two public Subnets
+![alt text](https://github.com/uvaysjon-coder/CloudTask/blob/main/images/Picture14.png)
+![alt text](https://github.com/uvaysjon-coder/CloudTask/blob/main/images/Picture15.png)
+
+### 4.After that I’ve enabled auto-assign Public IP	
+![alt text](https://github.com/uvaysjon-coder/CloudTask/blob/main/images/Picture16.png)
+
+

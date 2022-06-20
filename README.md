@@ -1,1 +1,1 @@
-### Create a web page with the text Hello World and additional information about OS version, free disk space,  free/used memory in the system and about all running processes
+### You can find detailed information in folders mandatory_task and extra_task
